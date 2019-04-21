@@ -1,4 +1,2 @@
-OLá
-
-asdasds
-adas
+#Notes 
+Angular2 app
