@@ -5,7 +5,8 @@ Angular2 app
 
  ### Tutorial Installation
  ```
-1. Install angular-cli
-2. Run npm i
-3. Run ng serve
+[ Inside the notes folder ]
+1. npm i angular-cli -g
+2. npm i
+3. ng serve
 ```
